@@ -1,0 +1,52 @@
+#root {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+body {
+  background-color: #f9f9f9;
+
+}
+.app {
+  /* background-color: white; */
+  /* max-width: 500px; */
+}
+.appHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.appButtons {
+  margin: 20px;
+  display: flex;
+}
+.appTitle {
+  margin: 15px 20px;
+  font-size: 26px;
+}
+.appWrapper {
+  margin: 20px;
+  padding-bottom: 56px;
+}
+.linkNoStyle {
+  text-decoration: none !important;
+}
+.appInnerWrapper {
+  margin-top: 20px;
+}
+.smallTitle {
+  font-size: 14px;
+  font-weight: 500;
+}
+.settingPickerWrapper {
+  display: flex;
+  flex-direction: column;
+
+}
+.settingPicker {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
