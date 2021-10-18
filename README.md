@@ -13,6 +13,7 @@
 
 ## Other Project
 - Backend Server : [haenu-planner-server](https://github.com/dokdo2013/haenu-planner-server)
+- Electron : [haenu-planner-electron](https://github.com/dokdo2013/haenu-planner-electron)
 
 ## HOWTO
 ### Install & Start Dev Server
