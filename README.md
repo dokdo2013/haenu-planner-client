@@ -29,3 +29,5 @@ yarn build
 ```
 2. 작업 중인 브랜치를 Main으로 Merge
 3. Jenkins에서 자동으로 빌드된 파일을 받아 S3에 업로드
+
+
