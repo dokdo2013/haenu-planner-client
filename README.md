@@ -13,6 +13,7 @@
 
 ## Other Project
 - Backend Server : [haenu-planner-server](https://github.com/dokdo2013/haenu-planner-server)
+- Electron : [haenu-planner-electron](https://github.com/dokdo2013/haenu-planner-electron)
 
 ## HOWTO
 ### Install & Start Dev Server
@@ -28,3 +29,5 @@ yarn build
 ```
 2. 작업 중인 브랜치를 Main으로 Merge
 3. Jenkins에서 자동으로 빌드된 파일을 받아 S3에 업로드
+
+
